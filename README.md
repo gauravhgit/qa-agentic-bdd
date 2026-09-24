@@ -1,0 +1,1 @@
+QA Agentic BDD is an intelligent testing pipeline that ingests plain-English software requirements, automatically synthesizes Cucumber BDD features, generates resilient Playwright TypeScript test suites, and runs an automated self-healing feedback loop on failures. Built to showcase modern AI-assisted test automation architecture and CI/CD integration.
